@@ -1,0 +1,30 @@
+File: data/chess/chess-3.txt
+. B K
+P . .
+K N .
+Total configs: 84
+Unique configs: 53
+Step 0:
+. B K
+P . .
+K N .
+
+Step 1:
+. B N
+P . .
+K . .
+
+Step 2:
+. . N
+B . .
+K . .
+
+Step 3:
+. . N
+K . .
+. . .
+
+Step 4:
+. . .
+N . .
+. . .

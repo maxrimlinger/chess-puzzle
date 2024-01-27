@@ -1,0 +1,60 @@
+File: data/chess/chess-4.txt
+B . P K
+N . . P
+. . P Q
+R . . P
+Total configs: 18605
+Unique configs: 5107
+Step 0:
+B . P K
+N . . P
+. . P Q
+R . . P
+
+Step 1:
+B . P K
+R . . P
+. . P Q
+. . . P
+
+Step 2:
+B . P K
+. . . R
+. . P Q
+. . . P
+
+Step 3:
+B . P K
+. . . R
+. . P Q
+. . . .
+
+Step 4:
+B . P K
+. . . Q
+. . P .
+. . . .
+
+Step 5:
+B . P K
+. . . .
+. . Q .
+. . . .
+
+Step 6:
+Q . P K
+. . . .
+. . . .
+. . . .
+
+Step 7:
+Q . K .
+. . . .
+. . . .
+. . . .
+
+Step 8:
+. . Q .
+. . . .
+. . . .
+. . . .

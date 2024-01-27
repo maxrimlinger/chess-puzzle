@@ -1,0 +1,16 @@
+File: data/chess/chess-0.txt
+. . P
+N B .
+Total configs: 5
+Unique configs: 5
+Step 0:
+. . P
+N B .
+
+Step 1:
+. . B
+N . .
+
+Step 2:
+. . N
+. . .

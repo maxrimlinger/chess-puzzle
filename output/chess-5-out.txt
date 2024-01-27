@@ -1,0 +1,112 @@
+File: data/chess/chess-5.txt
+N . N . N
+N . N . N
+. N . N .
+. N N N N
+N . N . N
+Total configs: 199681
+Unique configs: 32767
+Step 0:
+N . N . N
+N . N . N
+. N . N .
+. N N N N
+N . N . N
+
+Step 1:
+N . . . N
+N . N . N
+. N . N .
+. N N N N
+N . N . N
+
+Step 2:
+N . . . N
+N . N . N
+. N . N .
+. N N N .
+N . N . N
+
+Step 3:
+N . . . N
+N . N . N
+. N . N .
+. N N N .
+N . . . N
+
+Step 4:
+N . . . N
+N . N . N
+. N . N .
+. N N N .
+N . . . .
+
+Step 5:
+N . . . N
+N . N . .
+. N . N .
+. N N N .
+N . . . .
+
+Step 6:
+N . . . N
+N . N . .
+. N . N .
+. N N . .
+N . . . .
+
+Step 7:
+N . . . N
+N . N . .
+. N . . .
+. N N . .
+N . . . .
+
+Step 8:
+N . . . N
+N . N . .
+. N . . .
+. N . . .
+N . . . .
+
+Step 9:
+N . . . .
+N . N . .
+. N . . .
+. N . . .
+N . . . .
+
+Step 10:
+N . . . .
+N . N . .
+. N . . .
+. N . . .
+. . . . .
+
+Step 11:
+N . . . .
+N . N . .
+. . . . .
+. N . . .
+. . . . .
+
+Step 12:
+N . . . .
+. . N . .
+. . . . .
+. N . . .
+. . . . .
+
+Step 13:
+. . . . .
+. . N . .
+. . . . .
+. N . . .
+. . . . .
+
+Step 14:
+. . . . .
+. . N . .
+. . . . .
+. . . . .
+. . . . .

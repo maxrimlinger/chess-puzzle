@@ -1,0 +1,12 @@
+File: data/chess/chess-8.txt
+. . . . . Q . .
+. . . Q . . . .
+. . . . . . Q .
+Q . . . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+. . Q . . . . .
+Total configs: 1
+Unique configs: 1
+No solution

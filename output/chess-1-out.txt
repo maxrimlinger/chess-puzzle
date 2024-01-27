@@ -1,0 +1,54 @@
+File: data/chess/chess-1.txt
+. P . .
+. R R .
+. . N N
+B . P B
+Total configs: 1193
+Unique configs: 591
+Step 0:
+. P . .
+. R R .
+. . N N
+B . P B
+
+Step 1:
+. P . .
+. R R .
+. . . N
+N . P B
+
+Step 2:
+. P . .
+. B R .
+. . . N
+N . P .
+
+Step 3:
+. P . .
+. N R .
+. . . N
+. . P .
+
+Step 4:
+. P . .
+. . R .
+. . . N
+. . P .
+
+Step 5:
+. P . .
+. . R .
+. . . P
+. . . .
+
+Step 6:
+. P . .
+. . P .
+. . . .
+. . . .
+
+Step 7:
+. P . .
+. . . .
+. . . .
+. . . .
