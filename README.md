@@ -29,7 +29,7 @@ R . . P
 The solver/hint system uses the Breadth First Search (BFS) algorithm to find the lowest number of moves needed to get to a solved state. It explores every possible move in each position, branching out until it reaches a position that is considered solved.
 
 ## Directory Guide
-`data` - sample data files to load
-`input` - sample user input that can be routed into the `ChessPTUI`
-`output` - sample output for both the playable PTUI and the standalone solver
-`src` - source code
+- `data` - sample data files to load
+- `input` - sample user input that can be routed into the `ChessPTUI`
+- `output` - sample output for both the playable PTUI and the standalone solver
+- `src` - source code
